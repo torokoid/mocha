@@ -71,7 +71,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(20210710_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(20231008_001.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 	
@@ -128,7 +128,7 @@ width:970px;
 <!--ぱんくずリスト-->
 <!--
 <p><a href="https://dorikawa.github.io/20210704_Utsunomiya_swim/">2021年宇都宮市民大会</a>><a href="https://dorikawa.github.io/HP_build/">IT関連情報IT関連情報</a>>HPの作り方</p>
-
+-->
 <!--QRコードの挿入例-->
 
 <p align="left"> <img src="QR_mocha.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
@@ -142,26 +142,18 @@ width:970px;
 
 <!--ここから下が、本体部分-->
 	
-<a href="20210710_001.JPG" data-lightbox="abc"><img src="20210710_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_002.JPG" data-lightbox="abc"><img src="20210710_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_003.JPG" data-lightbox="abc"><img src="20210710_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_020.JPG" data-lightbox="abc"><img src="20210710_020.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_005.JPG" data-lightbox="abc"><img src="20210710_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_006.JPG" data-lightbox="abc"><img src="20210710_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_007.JPG" data-lightbox="abc"><img src="20210710_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_008.JPG" data-lightbox="abc"><img src="20210710_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_009.JPG" data-lightbox="abc"><img src="20210710_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_010.JPG" data-lightbox="abc"><img src="20210710_010.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_011.JPG" data-lightbox="abc"><img src="20210710_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_012.JPG" data-lightbox="abc"><img src="20210710_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_013.JPG" data-lightbox="abc"><img src="20210710_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_014.JPG" data-lightbox="abc"><img src="20210710_014.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_015.JPG" data-lightbox="abc"><img src="20210710_015.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_016.JPG" data-lightbox="abc"><img src="20210710_016.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_017.JPG" data-lightbox="abc"><img src="20210710_017.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_018.JPG" data-lightbox="abc"><img src="20210710_018.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_019.JPG" data-lightbox="abc"><img src="20210710_019.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210710_021.JPG" data-lightbox="abc"><img src="20210710_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231008_001.JPG" data-lightbox="abc"><img src="20231008_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231008_002.JPG" data-lightbox="abc"><img src="20231008_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231008_003.JPG" data-lightbox="abc"><img src="20231008_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231008_004.JPG" data-lightbox="abc"><img src="20231008_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231008_005.JPG" data-lightbox="abc"><img src="20231008_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231008_006.JPG" data-lightbox="abc"><img src="20231008_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231008_007.JPG" data-lightbox="abc"><img src="20231008_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231008_008.JPG" data-lightbox="abc"><img src="20231008_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231008_009.JPG" data-lightbox="abc"><img src="20231008_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231008_010.JPG" data-lightbox="abc"><img src="20231008_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231008_011.JPG" data-lightbox="abc"><img src="20231008_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231008_012.JPG" data-lightbox="abc"><img src="20231008_012.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br>
 
