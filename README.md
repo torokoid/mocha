@@ -71,7 +71,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(20231008_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(20231008_001.png) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 	
@@ -142,18 +142,17 @@ width:970px;
 
 <!--ここから下が、本体部分-->
 	
-<a href="20231008_001.JPG" data-lightbox="abc"><img src="20231008_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20231008_002.JPG" data-lightbox="abc"><img src="20231008_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20231008_003.JPG" data-lightbox="abc"><img src="20231008_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20231008_004.JPG" data-lightbox="abc"><img src="20231008_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20231008_005.JPG" data-lightbox="abc"><img src="20231008_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20231008_006.JPG" data-lightbox="abc"><img src="20231008_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20231008_007.JPG" data-lightbox="abc"><img src="20231008_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20231008_008.JPG" data-lightbox="abc"><img src="20231008_008.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20231008_009.JPG" data-lightbox="abc"><img src="20231008_009.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20231008_010.JPG" data-lightbox="abc"><img src="20231008_010.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20231008_011.JPG" data-lightbox="abc"><img src="20231008_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20231008_012.JPG" data-lightbox="abc"><img src="20231008_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20231008_001.png" data-lightbox="abc"><img src="20231008_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20231008_002.png" data-lightbox="abc"><img src="20231008_002.png" alt="サンプル画像" width="900" /></a>
+<a href="20231008_003.png" data-lightbox="abc"><img src="20231008_003.png" alt="サンプル画像" width="900" /></a>
+<a href="20231008_004.png" data-lightbox="abc"><img src="20231008_004.png" alt="サンプル画像" width="900" /></a>
+<a href="20231008_005.png" data-lightbox="abc"><img src="20231008_005.png" alt="サンプル画像" width="900" /></a>
+<a href="20231008_006.png" data-lightbox="abc"><img src="20231008_006.png" alt="サンプル画像" width="900" /></a>
+<a href="20231008_007.png" data-lightbox="abc"><img src="20231008_007.png" alt="サンプル画像" width="900" /></a>
+<a href="20231008_008.png" data-lightbox="abc"><img src="20231008_008.png" alt="サンプル画像" width="900" /></a>
+<a href="20231008_009.png" data-lightbox="abc"><img src="20231008_009.png" alt="サンプル画像" width="900" /></a>
+<a href="20231008_010.png" data-lightbox="abc"><img src="20231008_010.png" alt="サンプル画像" width="900" /></a>
+<a href="20231008_011.png" data-lightbox="abc"><img src="20231008_011.png" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br>
 
