@@ -153,8 +153,8 @@ width:970px;
 <a href="20231008_009.png" data-lightbox="abc"><img src="20231008_009.png" alt="サンプル画像" width="900" /></a>
 <a href="20231008_010.png" data-lightbox="abc"><img src="20231008_010.png" alt="サンプル画像" width="900" /></a>
 <a href="20231008_011.png" data-lightbox="abc"><img src="20231008_011.png" alt="サンプル画像" width="900" /></a>
-
-<a href="https://www.eizo.co.jp/solutions/solution/creative/mocha/">mocha氏HPリンク</a>
+<br><br>
+<a href="https://www.eizo.co.jp/solutions/solution/creative/mocha/" target="_blank">mocha氏HPリンク</a>
 
 <br><br><br><br><br><br><br><br>
 
